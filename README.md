@@ -1,4 +1,4 @@
-# Bootstrap_Glyphicons
+# Bootstrap Glyphicons
 ##Demonstrating the use of Glyphicons in Twitter Bootstrap
 ####By Carmel Schvartzman
 
