@@ -8,43 +8,16 @@ This jQuery Mobile code is the companion for the following Tutorial:
 <a href="http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-2-icons-and-glyphicons.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
 
+<img alt=" Lesson 2 - Icons and Glyphicons        " border="0" height="492" src="http://2.bp.blogspot.com/-Ivv7QXM_i1s/VVx6etipb1I/AAAAAAAAK3k/cb7n2F8q_vU/s540/10.png" width="540" />
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-Ivv7QXM_i1s/VVx6etipb1I/AAAAAAAAK3k/cb7n2F8q_vU/s1600/10.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt=" Lesson 2 - Icons and Glyphicons        " border="0" height="492" src="http://2.bp.blogspot.com/-Ivv7QXM_i1s/VVx6etipb1I/AAAAAAAAK3k/cb7n2F8q_vU/s540/10.png" width="540" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
 
-</div>
-<div class="separator" style="clear: both; text-align: left;">
-The buttons with the Glyphicons are displayed this way:</div>
-<div class="separator" style="clear: both; text-align: center;">
+<img alt=" Icons and Glyphicons        " border="0" height="540" src="http://4.bp.blogspot.com/-vRO-9gj-xRc/VVx6ekg8BTI/AAAAAAAAK30/02izACJgBQ0/s540/11.png" width="384" />
 
-</div>
+<img alt=" Glyphicons        " border="0" height="540" src="http://4.bp.blogspot.com/-bqSSnK6A7-g/VVx6fV4nrJI/AAAAAAAAK34/vmGTaBdKtHE/s540/12.png" width="370" />
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-vRO-9gj-xRc/VVx6ekg8BTI/AAAAAAAAK30/02izACJgBQ0/s1600/11.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt=" Icons and Glyphicons        " border="0" height="540" src="http://4.bp.blogspot.com/-vRO-9gj-xRc/VVx6ekg8BTI/AAAAAAAAK30/02izACJgBQ0/s540/11.png" width="384" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
 
-</div>
-<div class="separator" style="clear: both; text-align: center;">
 
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-
-</div>
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-bqSSnK6A7-g/VVx6fV4nrJI/AAAAAAAAK34/vmGTaBdKtHE/s1600/12.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt=" Glyphicons        " border="0" height="540" src="http://4.bp.blogspot.com/-bqSSnK6A7-g/VVx6fV4nrJI/AAAAAAAAK34/vmGTaBdKtHE/s540/12.png" width="370" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
-
-</div>
-<div class="separator" style="clear: both; text-align: left;">
-And in desktop resolution, the Glyphicons are shown this way:</div>
-<div class="separator" style="clear: both; text-align: center;">
-
-</div>
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-IkqNeYLCNT8/VVx6fm0XhJI/AAAAAAAAK4c/gDVlBH9z-VY/s1600/13.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Bootstrap  Lesson 2 - Glyphicons        " border="0" height="466" src="http://3.bp.blogspot.com/-IkqNeYLCNT8/VVx6fm0XhJI/AAAAAAAAK4c/gDVlBH9z-VY/s540/13.png" width="540" /></a></div>
+<img alt="Bootstrap  Lesson 2 - Glyphicons        " border="0" height="466" src="http://3.bp.blogspot.com/-IkqNeYLCNT8/VVx6fm0XhJI/AAAAAAAAK4c/gDVlBH9z-VY/s540/13.png" width="540" />
 
 
 
