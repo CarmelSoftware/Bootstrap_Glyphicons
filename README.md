@@ -15,11 +15,7 @@ This jQuery Mobile code is the companion for the following Tutorial:
 
 <img alt=" Glyphicons        " border="0" height="540" src="http://4.bp.blogspot.com/-bqSSnK6A7-g/VVx6fV4nrJI/AAAAAAAAK34/vmGTaBdKtHE/s540/12.png" width="370" />
 
-
-
 <img alt="Bootstrap  Lesson 2 - Glyphicons        " border="0" height="466" src="http://3.bp.blogspot.com/-IkqNeYLCNT8/VVx6fm0XhJI/AAAAAAAAK4c/gDVlBH9z-VY/s540/13.png" width="540" />
-
-
 
 </a>
 
